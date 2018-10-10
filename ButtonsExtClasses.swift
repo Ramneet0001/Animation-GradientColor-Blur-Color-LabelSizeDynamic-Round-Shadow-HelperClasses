@@ -1,8 +1,8 @@
 //
 //  ButtonsExtClasses.swift
-//  EatDigger
+
 //
-//  Created by Ramneet Singh on 07/05/18.
+//  Created by Ramneet Singh
 //  Copyright © 2018 Ramneet Singh. All rights reserved.
 //
 
